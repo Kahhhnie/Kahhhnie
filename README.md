@@ -16,7 +16,9 @@
 
 - 📚 The most recent GPA of mine:
   - Web Programming: 3.72/4.0
+
   - Discrete Structures: 3.72/4.0
+  
   - Requirements Analysis and Design: 3.88/4.0
 <p align="left">
 </p>
